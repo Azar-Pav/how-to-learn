@@ -2,4 +2,11 @@
   text-decoration: none;
   color: #2f80ed;
   z-index: 3;
+  -webkit-transition: opacity 0.3s linear;
+  -o-transition: opacity 0.3s;
+  transition: opacity 0.3s linear;
+}
+
+.header__link:hover {
+  opacity: 0.6;
 }

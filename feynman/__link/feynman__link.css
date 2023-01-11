@@ -7,4 +7,11 @@
   line-height: 51px;
   text-decoration: none;
   color: #2f80ed;
+  -webkit-transition: opacity 0.3s linear;
+  -o-transition: opacity 0.3s;
+  transition: opacity 0.3s linear;
+}
+
+.feynman__link:hover {
+  opacity: 0.6;
 }
