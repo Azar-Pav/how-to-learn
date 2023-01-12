@@ -16,5 +16,5 @@
   justify-content: center;
   overflow: hidden;
   background-color:  #1f1f1f;
-  z-index: -2;
+  z-index: 0;
 }

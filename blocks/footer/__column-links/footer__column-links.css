@@ -10,4 +10,6 @@
   -webkit-box-pack: start;
   -ms-flex-pack: start;
   justify-content: flex-start;
+  list-style-type: none;
+  margin: 0;
 }
